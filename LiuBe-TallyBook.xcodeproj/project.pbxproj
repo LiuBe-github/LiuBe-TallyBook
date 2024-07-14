@@ -15,6 +15,16 @@
 		9A1A536A2C43783D005B3886 /* LiuBe_TallyBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A53692C43783D005B3886 /* LiuBe_TallyBookTests.swift */; };
 		9A1A53742C43783D005B3886 /* LiuBe_TallyBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A53732C43783D005B3886 /* LiuBe_TallyBookUITests.swift */; };
 		9A1A53762C43783D005B3886 /* LiuBe_TallyBookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A53752C43783D005B3886 /* LiuBe_TallyBookUITestsLaunchTests.swift */; };
+		9A1A538A2C437D20005B3886 /* HelloWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A53892C437D1B005B3886 /* HelloWorld.swift */; };
+		9A1A538D2C437D57005B3886 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A538C2C437D54005B3886 /* User.swift */; };
+		9A1A538F2C437D64005B3886 /* Tally.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A538E2C437D60005B3886 /* Tally.swift */; };
+		9A1A539B2C43B34C005B3886 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A539A2C43B34A005B3886 /* Constants.swift */; };
+		9A1A539E2C43B3E2005B3886 /* MainBottomTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A539D2C43B3DD005B3886 /* MainBottomTabView.swift */; };
+		9A1A53A02C43B40E005B3886 /* HomePageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A539F2C43B3FF005B3886 /* HomePageView.swift */; };
+		9A1A53A22C43B440005B3886 /* BillPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A53A12C43B43B005B3886 /* BillPageView.swift */; };
+		9A1A53A42C43B47D005B3886 /* DepositPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A53A32C43B474005B3886 /* DepositPageView.swift */; };
+		9A1A53A62C43B4A6005B3886 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A53A52C43B4A3005B3886 /* MyView.swift */; };
+		9A1A53AD2C43C600005B3886 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A53AC2C43C600005B3886 /* MenuView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +56,16 @@
 		9A1A536F2C43783D005B3886 /* LiuBe-TallyBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "LiuBe-TallyBookUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A1A53732C43783D005B3886 /* LiuBe_TallyBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiuBe_TallyBookUITests.swift; sourceTree = "<group>"; };
 		9A1A53752C43783D005B3886 /* LiuBe_TallyBookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiuBe_TallyBookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9A1A53892C437D1B005B3886 /* HelloWorld.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorld.swift; sourceTree = "<group>"; };
+		9A1A538C2C437D54005B3886 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		9A1A538E2C437D60005B3886 /* Tally.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tally.swift; sourceTree = "<group>"; };
+		9A1A539A2C43B34A005B3886 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		9A1A539D2C43B3DD005B3886 /* MainBottomTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainBottomTabView.swift; sourceTree = "<group>"; };
+		9A1A539F2C43B3FF005B3886 /* HomePageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageView.swift; sourceTree = "<group>"; };
+		9A1A53A12C43B43B005B3886 /* BillPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BillPageView.swift; sourceTree = "<group>"; };
+		9A1A53A32C43B474005B3886 /* DepositPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepositPageView.swift; sourceTree = "<group>"; };
+		9A1A53A52C43B4A3005B3886 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
+		9A1A53AC2C43C600005B3886 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +116,10 @@
 		9A1A53552C43783B005B3886 /* LiuBe-TallyBook */ = {
 			isa = PBXGroup;
 			children = (
+				9A1A53932C43B2D1005B3886 /* layouts */,
+				9A1A53902C43873F005B3886 /* common */,
+				9A1A538B2C437D44005B3886 /* models */,
+				9A1A53842C437ACA005B3886 /* views */,
 				9A1A53562C43783B005B3886 /* LiuBe_TallyBookApp.swift */,
 				9A1A53582C43783B005B3886 /* ContentView.swift */,
 				9A1A535A2C43783B005B3886 /* Item.swift */,
@@ -128,6 +152,52 @@
 				9A1A53752C43783D005B3886 /* LiuBe_TallyBookUITestsLaunchTests.swift */,
 			);
 			path = "LiuBe-TallyBookUITests";
+			sourceTree = "<group>";
+		};
+		9A1A53842C437ACA005B3886 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				9A1A539F2C43B3FF005B3886 /* HomePageView.swift */,
+				9A1A53A12C43B43B005B3886 /* BillPageView.swift */,
+				9A1A53A32C43B474005B3886 /* DepositPageView.swift */,
+				9A1A53A52C43B4A3005B3886 /* MyView.swift */,
+				9A1A53892C437D1B005B3886 /* HelloWorld.swift */,
+				9A1A53AC2C43C600005B3886 /* MenuView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		9A1A538B2C437D44005B3886 /* models */ = {
+			isa = PBXGroup;
+			children = (
+				9A1A538E2C437D60005B3886 /* Tally.swift */,
+				9A1A538C2C437D54005B3886 /* User.swift */,
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+		9A1A53902C43873F005B3886 /* common */ = {
+			isa = PBXGroup;
+			children = (
+				9A1A539A2C43B34A005B3886 /* Constants.swift */,
+			);
+			path = common;
+			sourceTree = "<group>";
+		};
+		9A1A53932C43B2D1005B3886 /* layouts */ = {
+			isa = PBXGroup;
+			children = (
+				9A1A539C2C43B3D2005B3886 /* BottomeTabView */,
+			);
+			path = layouts;
+			sourceTree = "<group>";
+		};
+		9A1A539C2C43B3D2005B3886 /* BottomeTabView */ = {
+			isa = PBXGroup;
+			children = (
+				9A1A539D2C43B3DD005B3886 /* MainBottomTabView.swift */,
+			);
+			path = BottomeTabView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -260,9 +330,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A1A53A62C43B4A6005B3886 /* MyView.swift in Sources */,
 				9A1A53592C43783B005B3886 /* ContentView.swift in Sources */,
+				9A1A539E2C43B3E2005B3886 /* MainBottomTabView.swift in Sources */,
 				9A1A535B2C43783B005B3886 /* Item.swift in Sources */,
+				9A1A538F2C437D64005B3886 /* Tally.swift in Sources */,
 				9A1A53572C43783B005B3886 /* LiuBe_TallyBookApp.swift in Sources */,
+				9A1A538D2C437D57005B3886 /* User.swift in Sources */,
+				9A1A53A42C43B47D005B3886 /* DepositPageView.swift in Sources */,
+				9A1A538A2C437D20005B3886 /* HelloWorld.swift in Sources */,
+				9A1A539B2C43B34C005B3886 /* Constants.swift in Sources */,
+				9A1A53A22C43B440005B3886 /* BillPageView.swift in Sources */,
+				9A1A53A02C43B40E005B3886 /* HomePageView.swift in Sources */,
+				9A1A53AD2C43C600005B3886 /* MenuView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
