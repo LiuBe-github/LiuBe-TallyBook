@@ -25,6 +25,8 @@
 		9A1A53A42C43B47D005B3886 /* DepositPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A53A32C43B474005B3886 /* DepositPageView.swift */; };
 		9A1A53A62C43B4A6005B3886 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A53A52C43B4A3005B3886 /* MyView.swift */; };
 		9A1A53AD2C43C600005B3886 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A53AC2C43C600005B3886 /* MenuView.swift */; };
+		9A2CA7972C45082800C90977 /* TalliesSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2CA7962C45081C00C90977 /* TalliesSet.swift */; };
+		9A2CA7992C450D3800C90977 /* ExpenseRecordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2CA7982C450CF200C90977 /* ExpenseRecordView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +68,8 @@
 		9A1A53A32C43B474005B3886 /* DepositPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepositPageView.swift; sourceTree = "<group>"; };
 		9A1A53A52C43B4A3005B3886 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 		9A1A53AC2C43C600005B3886 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		9A2CA7962C45081C00C90977 /* TalliesSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TalliesSet.swift; sourceTree = "<group>"; };
+		9A2CA7982C450CF200C90977 /* ExpenseRecordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseRecordView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +161,7 @@
 		9A1A53842C437ACA005B3886 /* views */ = {
 			isa = PBXGroup;
 			children = (
+				9A2CA7982C450CF200C90977 /* ExpenseRecordView.swift */,
 				9A1A539F2C43B3FF005B3886 /* HomePageView.swift */,
 				9A1A53A12C43B43B005B3886 /* BillPageView.swift */,
 				9A1A53A32C43B474005B3886 /* DepositPageView.swift */,
@@ -170,6 +175,7 @@
 		9A1A538B2C437D44005B3886 /* models */ = {
 			isa = PBXGroup;
 			children = (
+				9A2CA7962C45081C00C90977 /* TalliesSet.swift */,
 				9A1A538E2C437D60005B3886 /* Tally.swift */,
 				9A1A538C2C437D54005B3886 /* User.swift */,
 			);
@@ -334,6 +340,7 @@
 				9A1A53592C43783B005B3886 /* ContentView.swift in Sources */,
 				9A1A539E2C43B3E2005B3886 /* MainBottomTabView.swift in Sources */,
 				9A1A535B2C43783B005B3886 /* Item.swift in Sources */,
+				9A2CA7992C450D3800C90977 /* ExpenseRecordView.swift in Sources */,
 				9A1A538F2C437D64005B3886 /* Tally.swift in Sources */,
 				9A1A53572C43783B005B3886 /* LiuBe_TallyBookApp.swift in Sources */,
 				9A1A538D2C437D57005B3886 /* User.swift in Sources */,
@@ -343,6 +350,7 @@
 				9A1A53A22C43B440005B3886 /* BillPageView.swift in Sources */,
 				9A1A53A02C43B40E005B3886 /* HomePageView.swift in Sources */,
 				9A1A53AD2C43C600005B3886 /* MenuView.swift in Sources */,
+				9A2CA7972C45082800C90977 /* TalliesSet.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

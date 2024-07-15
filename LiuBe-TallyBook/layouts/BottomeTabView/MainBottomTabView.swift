@@ -40,7 +40,6 @@ struct MainBottomTabView: View {
                     Text("个人信息")
                 }.tag(4)
         }
-        .fontWeight(.bold)
     }
 }
 
